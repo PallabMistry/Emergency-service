@@ -1,0 +1,73 @@
+{
+  "dhaka": [
+    { "name": "Ad-din Medical College Hospital\n","number": "01713488418" },
+    { "name": "Al-Barakah Kidney Hospital\n","number": "+88029350884" },
+    { "name": "Apollo Hospital Ltd\n","number": "01612276556" },
+    { "name": "Al Anaiet Adhunik Hospital\n","number": " +88028631619" },
+    { "name": "Al-Biruni Hospital\n","number": " +880-2-8118905" },
+    { "name": "Ahsania Mission Cancer & General Hospital\n","number": " +880-2-9008919" },
+    { "name": "Anwer Khan Modern Hospital Ltd.\n","number": " +8802-58616074" },
+    { "name": "Advanced Eye Center\n","number": " 01716-165353" },
+    { "name": "Bangladesh Lions Eye Hospital\n","number": " +880-2-8110894" },
+    { "name": "Bangladesh Eye Hospital Ltd\n","number": " +880-2-8651950" },
+    { "name": "Bangladesh Institute of Health Sciences\n","number": " 01674237114" },
+    { "name": "Bangabandhu Sheikh Mujib Medical University\n","number": " 01866-637482" },
+    { "name": "CRP–Mirpur (Center for the Rehabilitation of the Paralysed)\n","number": " +880-2-8053662-4" },
+    { "name": "CRP–Savar (Center for the Rehabilitation of the Paralysed)\n","number": " +880-2-7745464" },
+    { "name": "Care Hospital ( BD ) Ltd.\n","number": " +880 2 9134407" },
+    { "name": "City Hospital Ltd\n","number": " 01815555569" },
+    { "name": "Combined Military Hospital (C.M.H.)\n","number": " +880-2-8750011" },
+    { "name": "Dr.Sirajul Islam Medical College Hospital\n","number": " +880 2-9351887" },
+    { "name": "Dhaka Community Hospital\n","number": " +880-2-9351190" },
+    { "name": "Dhaka Medical College Hospital\n","number": " +880-2-8626812" },
+    { "name": "Dhanmondi South East Hospital\n","number": " +880 2 9669904" },
+    { "name": "Fuad Al-Khatib Hospital\n","number": " +880 2 9007188" }
+  ],
+  "mymensingh": [
+    { "name": "Mymensingh blood bank & transfusion center","number": "  01611-119722" },
+    { "name": "Nirapod Blood Transfusion Service Center","number": "  01979-647663" },
+    { "name": "Delta Health Care","number": "  091-61244" },
+    { "name": "Nexus Hospitals Bangladesh","number": "  01796-586561" }
+  ],
+  "rajshahi": [
+    { "name": "Blood Bank, Rajshahi Medical College","number": " 0721772150" },
+    { "name": "RAJSHAHI BLOOD BANK AND TRANSFUSION CENTRE","number": "  01770-807108" },
+    { "name": "New Safe Blood Bank","number": " 01740-384078" }
+  ],
+  "barishal": [
+    { "name": "BMBDC Head office","number": "  01883-126249" },
+    { "name": "Barisal Blood Donors Club (BBDC)","number": "   01950-909020" }
+  ],
+  "chittagong": [
+    { "name": "Chittagong Blood Bank & Transfusion Centre","number": "01837-690914" },
+    { "name": "Blood Bank","number": "01837-690914" },
+    { "name": "Life Save Blood Bank লাইফ সেইভ ব্লাড ব্যাংক","number": " 01712-599232" },
+    { "name": "Fatema Begum Red Crescent Blood Center","number": " 031-612395" },
+    { "name": "খাগরিয়া ব্লাড ব্যাংক","number": "  01815-328807" },
+    { "name": "UNHCR BLOOD BANK","number": " 01819-171757" }
+  ],
+  "khulna": [
+    { "name": "Khulna Medical Blood Bank","number": "  01767-938531" },
+    { "name": "Central Blood Bank","number": " 0421-63353" },
+    { "name": "LABAID Diagnostic Khulna","number": " 01766-661020" },
+    { "name": "Surokkha Hospital & Diagnostic","number": "  01717-886142" }
+  ],
+  "sylhet": [
+    { "name": "Blood Transfusion Department","number": " 0821-713487" },
+    { "name": "Crescent Blood Bank","number": "  01937-591604" },
+    { "name": "রক্তাশ্রয়ী - Blood Donating & Health Care","number": " 01623-812010" },
+    { "name": "Mujib Jahan Red Crescent Blood Centre","number": "  01611-300900" },
+    { "name": "Blood Platoon","number": "   01730-584984" }
+
+  ],
+  "rangpur": [
+    { "name": "ideal Foundation (Diagnostic & Blood bank)( )","number": "01988-877800" },
+    { "name": "RCMCH Blood Bank","number": "01317-168583" },
+    { "name": "আদিবাসী রক্ত সঞ্চালন পরিসেবা","number": " 01865-768427" },
+    { "name": "SANDHANI Rangpur Medical College Unit","number": " 01927-240097" },
+    { "name": "LABAID Diagnostic Rangpur","number": " 01766-663099" },
+    { "name": "ব্লাড ফর রংপুর অফিস","number": " 01773-334845" }
+  ]
+
+
+}

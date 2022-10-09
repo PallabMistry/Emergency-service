@@ -1,0 +1,107 @@
+{
+  "dhaka": [
+    { "name": "Bashundhara Ad-din Medical College Hospital\n( )","number": "01713488418" ,"website": "https://ad-din.org/bashundhara-ad-din-medical-college-bamc/about-bamc/"},
+    { "name": "Insaf-Barakah Kidney Hospital\n( )","number": "01716-306631" ,"website": "https://www.ibhospital.com/"},
+    { "name": "Apollo Hospital Ltd\n( )","number": "01612276556" ,"website": ""},
+    { "name": "Al Anaiet Adhunik Hospital\n( )","number": " +88028631619" ,"website": ""},
+    { "name": "Al-Biruni Hospital\n( )","number": " +880-2-8118905" ,"website": ""},
+    { "name": "Ahsania Mission Cancer & General Hospital\n( )","number": " +880-2-9008919" ,"website": ""},
+    { "name": "Anwer Khan Modern Hospital Ltd.\n( )","number": " +8802-58616074" ,"website": ""},
+    { "name": "Advanced Eye Center\n( )","number": " 01716-165353" ,"website": ""},
+    { "name": "Bangladesh Lions Eye Hospital\n( )","number": " +880-2-8110894" ,"website": ""},
+    { "name": "Bangladesh Eye Hospital Ltd\n( )","number": " +880-2-8651950" ,"website": ""},
+    { "name": "Bangladesh Institute of Health Sciences\n( )","number": " 01674237114" ,"website": ""},
+    { "name": "Bangabandhu Sheikh Mujib Medical University\n( )","number": " 01866-637482" ,"website": ""},
+    { "name": "CRP–Mirpur (Center for the Rehabilitation of the Paralysed)\n( )","number": " +880-2-8053662-4" },
+    { "name": "CRP–Savar (Center for the Rehabilitation of the Paralysed)\n( )","number": " +880-2-7745464" },
+    { "name": "Care Hospital ( BD ) Ltd.\n( )","number": " +880 2 9134407" },
+    { "name": "City Hospital Ltd\n( )","number": " 01815555569" },
+    { "name": "Combined Military Hospital (C.M.H.)\n( )","number": " +880-2-8750011" },
+    { "name": "Dr.Sirajul Islam Medical College Hospital\n( )","number": " +880 2-9351887" },
+    { "name": "Dhaka Community Hospital\n( )","number": " +880-2-9351190" },
+    { "name": "Dhaka Medical College Hospital\n( )","number": " +880-2-8626812" },
+    { "name": "Dhanmondi South East Hospital\n( )","number": " +880 2 9669904" },
+    { "name": "Fuad Al-Khatib Hospital\n( )","number": " +880 2 9007188" }
+  ],
+  "mymensingh": [
+    { "name": "Pranto Specialized Hospital\n( )","number": " 01788-222000" },
+    { "name": "Nexus Hospitals Bangladesh\n( )","number": " 01796-586561" },
+    { "name": "Liberty Hospital\n( )","number": " 091-65055" },
+    { "name": "Mymensingh Union Specialized Hospital Limited\n( )","number": " 01958-280000" },
+    { "name": "Sayem Diagno Complex & Hospital, Mymensingh\n( সায়েম ডায়াগনো কমপ্লেক্স এন্ড হসপিটাল, ময়মনসিংহ)","number": "  01725-516141" },
+    { "name": "LabAid hospital\n( )","number": " +8801766663000" },
+    { "name": "Sodesh Hospital Pvt. Ltd\n( )","number": " 01734-927758" },
+    { "name": "Delta Health Care\n( )","number": " 091-61244" },
+    { "name": "Popular Diagnostic Centre Ltd., Mymensingh\n( )","number": " 09613-787814" },
+    { "name": "Mou-Shafi Hospital\n( )","number": " 01711-958137" },
+    { "name": "Mymensingh Medical College Hospital\n( )","number": " 091-66063" },
+    { "name": "Icon Diagnostic Center\n( )","number": " 01763-600616" }
+
+  ],
+  "rajshahi": [
+    { "name": "Rajshahi Model Hospital\n( )","number": "  01773-844844" },
+    { "name": "Zamzam Islami Hospital\n( )","number": "  01711-192600" },
+    { "name": "Islami Bank Medical College Hospital Rajshahi\n( )","number": " 01777-242536" },
+    { "name": "Rajshahi Medical College Hospital,Rajshahi\n( )","number": "0721-772150" },
+    { "name": "Rajshahi Metropolitan Hospital Ltd\n( )","number": "   01725-671023" },
+    { "name": "Al Arafa Clinic\n( )","number": "  01556-320048" },
+    { "name": "LABAID ltd\n( )","number": "  01766-661144" },
+    { "name": "Uttora Clinic\n( )","number": "  0721-761204" },
+    { "name": "Plasma Diagnostic Center\n( )","number": " 01677652454" },
+    { "name": "United Hospital\n( )","number": "  01712-040416" },
+    { "name": "Rajshahi Comfort Hospital\n( )","number": "  01791-503238" },
+    { "name": "Infectious Diseases Hospital, Rajshahi\n( )","number": " 01715123690" }
+  ],
+  "barishal": [
+    { "name": "Sher-E-Bangla Medical College Hospital\n( )","number": "01718766025" },
+    { "name": "Save Health Hospital\n( )","number": "01711943061" },
+    { "name": "Islami Bank Hospital\n( )","number": " 01718-237662" },
+    { "name": "Eden Nursing Home\n( )","number": " 01711-358544" },
+    { "name": "Rahat Anwar Hospital\n( )","number": "01711-993952" },
+    { "name": "Abdullah hospital Rupatoli\n( )","number": " 01712-055118" },
+    { "name": "Mamota Specialised Hospital\n( )","number": "01751662116" }
+  ],
+  "chittagong": [
+    { "name": "Red Crescent Maternity Hospital\n( )","number": " 031-612359" },
+    { "name": "Royal Hospital (Pvt.) Limited\n( )","number": " 031-658842" },
+    { "name": "National Hospital Pvt. Ltd.\n( )","number": " 031-627914" },
+    { "name": "Memon Maternity Hospital\n( )","number": " 031-617169" },
+    { "name": "Parkview Hospital Ltd.\n( )","number": " 01976-022111" },
+    { "name": "Chattogram Metropolitan Hospital Limited\n( )","number": " 01814-651077" },
+    { "name": "CSCR (Pvt.) Ltd.\n( )","number": " +88031656565" },
+    { "name": "Chattogram Medical College Hospital\n( )","number": "01705-657650" },
+    { "name": "Chittagong Square\n( )","number": "01841-005588" }
+  ],
+  "khulna": [
+    { "name": "Khulna Child-Care Hospital\n( খুলনা শিশু হাসপাতাল)","number": "  041-811704" },
+    { "name": "Khulna City Medical College Hospital\n( )","number": " 01999-099099" },
+    { "name": "Khulna Pongu And General Hospital\n( )","number": "041-721019" },
+    { "name": "Khulna BNSB Eye Hospital\n( )","number": "  01714-028139" },
+    { "name": "Islami Bank Hospital\n( )","number": " 01712068684" },
+    { "name": "Nargis Memorial Hospitals (Pvt) Ltd.\n()","number": "  041-720379" },
+    { "name": "Surokkha Hospital & Diagnostic.\n()","number": "  01717-886142" },
+    { "name": "Ad-Din Akij Medical College Hospital\n()","number": "  01713-488495" }
+  ],
+  "sylhet": [
+    { "name": "Al Haramain Hospital Private Limited\n( )","number": " 0821-729981" },
+    { "name": "Mount Adora Hospital, Nayasarak\n( )","number": " 01786-637476" },
+    { "name": "United Hospital\n( )","number": "  02-8836000" },
+    { "name": "Sylhet Women's Medical College Hospital\n( )","number": " 01712-346858" },
+    { "name": "City Poly Clinic And Shishu Hospital\n( )","number": "  0821-715433" },
+    { "name": "Sylhet Sahid Shamsuddin Ahmed Hospital\n( )","number": "  01730-324820" },
+    { "name": "Sylhet Diabetic Hospital\n( )","number": " 0821-713632" }
+  ],
+  "rangpur": [
+    { "name": "Good Health Hospital, Rangpur\n( )","number": " 01717-974488" },
+    { "name": "Islami Bank Community Hospital\n( )","number": " 01718-997520" },
+    { "name": "Rangpur central Hospital\n( )","number": " 01737-894558" },
+    { "name": "Rangpur Community Medical College\n( )","number": " 0521-61113" },
+    { "name": "Bangladesh Hospital Rangpur\n( )","number": " 01767-864837" },
+    { "name": "Rose Hospital, Rangpur\n( )","number": " +88052163136" },
+    { "name": "Mothers Home Hospital, Rangpur\n( )","number": " 01716-386462" },
+    { "name": "Rangpur General Hospital\n( )","number": "  0521-55843" },
+    { "name": "King Hospital, Rangpur\n( )","number": "  01750-247444" }
+  ]
+
+
+}
